@@ -95,7 +95,6 @@ body {
 
 .support {
     display: flex;
-    
     justify-content: space-between;
     padding: 86px 240px;
     border-radius: 8px;
@@ -108,7 +107,7 @@ body {
     font-size: 21px;
 }
 
-.main-second{
+.main-second {
     display: flex;
     justify-content: space-between;
     padding: 86px 240px;
@@ -117,15 +116,77 @@ body {
 
 
 
-span{
+span {
     color: #E55473
 }
 
-.sign-up-btn{
+.sign-up-btn {
     text-align: center;
 }
 
-.second-banner{
+.second-banner {
     margin: auto;
 }
 
+/* main third section */
+
+.main-third {
+    padding: 128px 240px;
+}
+
+.instagram {
+    display: flex;
+    gap: 20px;
+}
+
+.customer {
+    display: flex;
+    gap: 20px;
+
+}
+
+.customer-image {
+    width: 342px;
+    height: 396px;
+}
+
+.deals {
+    background: url('../images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin: 120px 0px 0px 0px;
+    padding: 86px 240px;
+    border-radius: 8px;
+}
+
+#email {
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 22px 513px 22px 22px;
+    color: rgba(39, 39, 39, 0.60);
+}
+
+/* footer */
+
+.footer {
+    background-color: #111010;
+    text-align: center;
+    padding: 128px;
+}
+
+.footer-title {
+    color: #FFFFFF;
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+
+.footer-descriiption {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    margin-bottom: 24px;
+}
+
+.footer-copyright {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+}
