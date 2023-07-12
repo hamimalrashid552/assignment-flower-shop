@@ -103,8 +103,29 @@ body {
     text-align: center;
 }
 
-
 .icon-title {
     color: rgba(39, 39, 39, 0.80);
     font-size: 21px;
 }
+
+.main-second{
+    display: flex;
+    justify-content: space-between;
+    padding: 86px 240px;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+
+
+
+span{
+    color: #E55473
+}
+
+.sign-up-btn{
+    text-align: center;
+}
+
+.second-banner{
+    margin: auto;
+}
+
