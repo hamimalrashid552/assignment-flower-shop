@@ -41,3 +41,53 @@ body {
     color: #FFFFFF;
     font-size: 20px;
 }
+
+/* main section */
+
+.main-first{
+    align-items: center;
+    padding: 50px 230px;
+}
+
+.midle-title{
+    text-align: center;
+    font-size: 40px;
+}
+
+.midle-description{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-bottom: 48px;
+}
+
+.flower-box{
+    display: flex;
+    gap: 100px;
+
+}
+.box-design-1{
+    background-color: rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 0px 76px;
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+}
+.box-design-2{
+    background-color: rgba(5, 151, 160, 0.15);
+    padding: 110px 78px 61px 76px;
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+}
+.box-design-3{
+    background-color: rgba(71, 125, 17, 0.15);
+    padding: 75px 78px 0px 76px;
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+}
+
+.flower-title{
+    text-align: center;
+    font-size: 24px;
+    text-decoration-line: underline;
+}
+
